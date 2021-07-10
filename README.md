@@ -24,7 +24,7 @@ ___
   
 ___
 
-### Descripton - Basic Sorts
+## Descripton - Basic Sorts
 
 1) Bubble Sort
 
@@ -47,6 +47,6 @@ reference : https://en.wikipedia.org/wiki/Sorting_algorithm
   
 ___
 
-### Usage in Algorithm Tutorials
+## Usage in Algorithm Tutorials
   This visualizer was used to introduce college freshman to sorting algorithms in their competitive programming lectures, by showing them the procedural flow of these algorithms.
   (Acted as a TA for the same.) 
